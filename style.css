@@ -1,0 +1,19 @@
+body {
+  margin-left: 40%;
+  margin-top: 20%;
+  color: white;
+  height: 100vh;
+  background-size: cover;
+}
+
+.hide {
+  display: none;
+}
+
+#clock {
+  margin-left: 90px;
+}
+
+.delete-button {
+  margin-left: 20px;
+}
